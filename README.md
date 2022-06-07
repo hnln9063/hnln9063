@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnln9063&label=Profile%20views&color=0e75b6&style=flat" alt="hnln9063" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **Git**
-
 - 💬 Ask me about **C, Java**
 
 - 📫 How to reach me **hnlakshminarasimha1@gmail.com**
